@@ -1,0 +1,186 @@
+@media only screen and (max-width: 768px) {
+    .header-area .w-20 {
+        width: 40%;
+    }
+    .header-area .w-80 {
+        width: 60%;
+    }
+    .header-area .login-form form {
+        float: right;
+        width: 91%;
+    }
+    .header-area .w-20 .fackbook-img img {
+        width: 150px;
+        padding: 0px 10px 0px 0px;
+    }
+    .header-area .w-20 .fackbook-img {
+        padding: 24px 0 0 68px;
+    }
+    .maine-conten-area .headeig-1 h3 {
+        padding-left: 43px;
+    }
+    .images-1 {
+        overflow: hidden;
+    }
+    .maine-conten-area .images-1 img {
+        padding: 25px 0px 0 37px;
+        width: 81%;
+    }
+    .maine-conten-area .heading-2 h1 {
+        font-size: 32px;
+        color: #88487e;
+    }
+    .maine-conten-area .heading-2 h3 {
+        padding: 6px 0 20px 11px;
+        font-size: 17px;
+    }
+    .maine-conten-area form input[type="text"], .maine-conten-area form input[type="password"] {
+        width: 93%;
+        padding: 8px;
+        font-size: 16px;
+    }
+    .fast {
+        width: 45%;
+    }
+    .fast {
+        margin-right: 10px;
+        padding-right: 0;
+    }
+    .last {
+        width: 45%;
+        float: left;
+    }
+    .maine-conten-area .birthday p {
+        padding-top: 5px;
+        font-size: 18px;
+        padding-bottom: 10px;
+    }
+    .maine-conten-area .opsion .select {
+        padding: 0px;
+    }
+    .maine-conten-area .opsion .link-link a {
+        font-size: 13px;
+    }
+}
+@media only screen and (max-width: 414px) {
+    .header-area {
+        padding: 15px 0 0 0;
+    }
+    .header-area .w-20 {
+        width: 100%;
+        float: none;
+    }
+    .header-area .w-20 .fackbook-img {
+        padding: 16px 0px 24px 107px;
+    }
+    .header-area .w-20 .fackbook-img img {
+        width: 200px;
+    }
+    .header-area .w-80 {
+        width: 100%;
+        float: none;
+    }
+    .header-area .login-form form {
+        float: none;
+        width: 95%;
+        padding-left: 63px;
+    }
+    .header-area .login-form form .email-phone {
+        width: 81%;
+    }
+    .header-area .login-form form .email-phone input[type="lable"] {
+        font-size: 21px;
+    }
+    .header-area input, .header-area .label {
+        width: 100%;
+        padding: 5px;
+        border-radius: 5px;
+    }
+    .header-area .login-form form .password {
+        width: 81%;
+    }
+    .header-area .login-form form .password input[type="lable"] {
+        font-size: 21px;
+    }
+    .header-area .login-form form .log-in {
+        width: 20%;
+        float: none;
+    }
+    .header-area .login-form form input[type="submit"] {
+        background: #3c37cc;
+        margin-top: 19px;
+        padding: 6px;
+    }
+    .header-area .w-50 {
+	width: 100%;
+	float: none;
+    }
+    .headeig-1 {
+        padding-top: 40px;
+        padding-left: 20px;
+    }
+    .maine-conten-area .images-1 img {
+        padding: 20px 0px 10px 57px;
+        width: 70%;
+    }
+    .maine-conten-area {
+        margin-top: 0px;
+    }
+    .maine-conten-area .w-50 {
+        width: 100%;
+        float: none;
+        box-sizing: border-box;
+    }
+    .maine-conten-area .heading-2 h1 {
+        font-size: 30px;
+        color: #27ae60;
+        padding-left: 78px;
+    }
+    .maine-conten-area .heading-2 h3 {
+        padding: 8px 0 20px 119px;
+        font-size: 15px;
+    }
+    .fast {
+        width: 90%;
+        padding-right: 0;
+        float: none;
+    }
+    .last {
+        width: 90%;
+        float: none;
+    }
+    .maine-conten-area form input[type="text"], .maine-conten-area form input[type="password"] {
+        width: 90%;
+        margin-left: 22px;
+    }
+    .maine-conten-area .birthday p {
+        font-size: 20px;
+        padding-left: 23px;
+    }
+    .maine-conten-area .opsion .select {
+        padding-left: 22px;
+        padding-bottom: 7px;
+    }
+    .maine-conten-area .opsion .link-link {
+        padding-left: 24px;
+    }
+    .maine-conten-area .opsion .select {
+        float: none;
+    }
+    .maine-conten-area .male-female {
+        padding-left: 18px;
+    }
+    .maine-conten-area .artcile p {
+        font-size: 12px;
+        padding: 14px 0 30px 22px;
+    }
+    .maine-conten-area .artcile a {
+        padding: 10px 63px 13px 63px;
+    }
+    .artcile .a {
+        padding-left: 75px;
+    }
+    .link-3 {
+        padding: 1px 0px 2px 19px;
+    }
+}
